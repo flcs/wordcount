@@ -59,7 +59,7 @@ onboard==1.4.1
 openshot-qt==2.5.1.dev2
 panda==0.3.1
 pandas==1.0.4
-paramiko==2.6.0
+paramiko==2.10.1
 parso==0.5.2
 pdfminer.six==20200517
 pexpect==4.6.0
