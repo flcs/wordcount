@@ -52,7 +52,7 @@ monotonic==1.5
 mpmath==1.1.0
 music==0.7b0
 netifaces==0.10.4
-numpy==1.17.4
+numpy==1.22.0
 oauthlib==3.1.0
 olefile==0.46
 onboard==1.4.1
